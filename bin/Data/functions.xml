@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE xml>
+<completer version="1.0">
+     <!-- Standard snippets -->
+     <standard>
+          <entry name="and">
+               <icon>Data/Resources/snippet.png</icon>
+          </entry>
+          <entry name="break">
+               <icon>Data/Resources/snippet.png</icon>
+          </entry>
+          <entry name="do">
+               <icon>Data/Resources/snippet.png</icon>
+          </entry>
+          <entry name="else">
+               <icon>Data/Resources/snippet.png</icon>
+          </entry>
+          <entry name="elseif">
+               <icon>Data/Resources/snippet.png</icon>
+          </entry>
+          <entry name="end">
+               <icon>Data/Resources/snippet.png</icon>
+          </entry>
+          <entry name="false">
+               <icon>Data/Resources/snippet.png</icon>
+          </entry>
+          <entry name="for">
+               <icon>Data/Resources/snippet.png</icon>
+          </entry>
+          <entry name="function">
+               <icon>Data/Resources/snippet.png</icon>
+          </entry>
+          <entry name="if">
+               <icon>Data/Resources/snippet.png</icon>
+          </entry>
+          <entry name="in">
+               <icon>Data/Resources/snippet.png</icon>
+          </entry>
+          <entry name="local">
+               <icon>Data/Resources/snippet.png</icon>
+          </entry>
+          <entry name="nil">
+               <icon>Data/Resources/snippet.png</icon>
+          </entry>
+          <entry name="not">
+               <icon>Data/Resources/snippet.png</icon>
+          </entry>
+          <entry name="or">
+               <icon>Data/Resources/snippet.png</icon>
+          </entry>
+          <entry name="repeat">
+               <icon>Data/Resources/snippet.png</icon>
+          </entry>
+          <entry name="return">
+               <icon>Data/Resources/snippet.png</icon>
+          </entry>
+          <entry name="then">
+               <icon>Data/Resources/snippet.png</icon>
+          </entry>
+          <entry name="true">
+               <icon>Data/Resources/snippet.png</icon>
+          </entry>
+          <entry name="until">
+               <icon>Data/Resources/snippet.png</icon>
+          </entry>
+          <entry name="while">
+               <icon>Data/Resources/snippet.png</icon>
+          </entry>
+          <entry name="assert">
+               <icon>Data/Resources/function.png</icon>
+          </entry>
+          <entry name="print">
+               <icon>Data/Resources/function.png</icon>
+          </entry>
+     </standard>
+</completer>
